@@ -1,5 +1,5 @@
 📊 Project Overview
-
+--
 A comprehensive business intelligence solution built in Power BI that analyzes retail sales data for Euromart.
 The dashboard provides actionable insights into sales performance, customer behavior, product trends, and regional analysis, enabling data-driven decision-making across the organization.
 --
