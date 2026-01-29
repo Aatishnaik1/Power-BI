@@ -15,3 +15,21 @@ Data Model: Star Schema with Fact and Dimension Tables
 * Provide interactive visualizations for stakeholder decision-making
 * Enable trend analysis and forecasting for strategic planning
 
+🏗️ Data Model Architecture
+--
+The project implements a Star Schema data model for optimal performance and intuitive analysis:
+Fact Table:
+* Fact Sales - Core transactional data containing sales records
+
+Dimension Tables:
+
+* Customer Lookup - Customer demographics and information
+* Product Lookup - Product catalog with categories and attributes
+* Date Lookup - Time dimension for temporal analysis
+* Region Lookup - Geographic hierarchy and regional information
+* Parameter - Dynamic parameters for user interactions
+
+Relationships:
+
+* One-to-many relationships between dimension tables and fact table
+* Optimized for fast query performance and intuitive analysis
