@@ -34,3 +34,40 @@ Relationships:
 
 * One-to-many relationships between dimension tables and fact table
 * Optimized for fast query performance and intuitive analysis
+
+📈 Key Features
+--
+Sales Performance Analysis
+
+* Total revenue, quantity sold, and transaction count tracking
+* Sales trends over time (daily, weekly, monthly, quarterly, yearly)
+* Year-over-year (YoY) and month-over-month (MoM) growth analysis
+* Sales performance by different time periods
+
+Customer Analytics
+
+* Customer segmentation and profiling
+* Top customers by revenue and purchase frequency
+* Customer lifetime value analysis
+* New vs. returning customer metrics
+
+Product Intelligence
+
+* Best-selling products and categories
+* Product performance comparison
+* Category-wise revenue contribution
+* Inventory and stock analysis insights
+
+Regional Performance
+
+* Sales distribution across regions
+* Regional performance benchmarking
+* Geographic visualization of sales data
+* Market penetration analysis by region
+
+Interactive Features
+
+* Dynamic slicers for date, product, customer, and region filtering
+* Drill-through capabilities for detailed analysis
+* Cross-filtering between visualizations
+* Parameter-driven dynamic reporting
