@@ -18,6 +18,7 @@ Data Model: Star Schema with Fact and Dimension Tables
 🏗️ Data Model Architecture
 --
 The project implements a Star Schema data model for optimal performance and intuitive analysis:
+
 Fact Table:
 * Fact Sales - Core transactional data containing sales records
 
