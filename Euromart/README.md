@@ -7,3 +7,4 @@ The dashboard provides actionable insights into sales performance, customer beha
 **Project Type**: Retail Analytics | Business Intelligence Dashboard
 Tools Used: Power BI Desktop, DAX, Power Query (M)
 Data Model: Star Schema with Fact and Dimension Tables
+--
